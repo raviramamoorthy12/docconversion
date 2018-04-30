@@ -1,0 +1,311 @@
+2018-04-28 21:21:03,003 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2040 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-28 21:21:03,008 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-28 21:21:03,008 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-28 21:21:04,622 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.788 seconds (JVM running for 2.529)
+2018-04-28 23:01:42,448 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2242 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-28 23:01:42,452 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-28 23:01:42,452 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-28 23:01:44,018 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.737 seconds (JVM running for 2.451)
+2018-04-28 23:29:47,329 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2305 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-28 23:29:47,333 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-28 23:29:47,333 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-28 23:29:49,065 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.906 seconds (JVM running for 2.602)
+2018-04-28 23:31:08,390 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2313 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-28 23:31:08,395 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-28 23:31:08,395 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-28 23:31:10,168 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.951 seconds (JVM running for 2.463)
+2018-04-28 23:33:45,375 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2316 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-28 23:33:45,379 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-28 23:33:45,379 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-28 23:33:47,091 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.889 seconds (JVM running for 2.585)
+2018-04-28 23:44:56,563 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2336 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-28 23:44:56,567 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-28 23:44:56,567 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-28 23:56:01,005 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2367 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-28 23:56:01,010 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-28 23:56:01,010 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-28 23:56:02,662 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.824 seconds (JVM running for 2.544)
+2018-04-28 23:59:05,653 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2373 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-28 23:59:05,657 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-28 23:59:05,658 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-28 23:59:07,821 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.368 seconds (JVM running for 3.073)
+2018-04-29 00:01:16,899 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2380 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 00:01:16,904 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 00:01:16,904 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 00:01:19,019 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.317 seconds (JVM running for 3.028)
+2018-04-29 00:04:55,828 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2386 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 00:04:55,833 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 00:04:55,833 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 00:04:57,500 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.833 seconds (JVM running for 2.323)
+2018-04-29 00:05:01,190 [http-nio-8080-exec-1] ERROR c.w.d.s.DocConversionServiceImpl - Error while generating pdf
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'wkHtml2PdfGenerationService' defined in file [/Users/raviramamoorthy/work/learning/docconversion/target/classes/com/webtrixs/docconversion/pdf/WkHtml2PdfGenerator.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.webtrixs.docconversion.pdf.WkHtml2PdfGenerator]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1159)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1103)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at com.webtrixs.docconversion.pdf.PDFGenerationService.generatePdf(PDFGenerationService.java:23)
+	at com.webtrixs.docconversion.service.DocConversionServiceImpl.doConversion(DocConversionServiceImpl.java:89)
+	at com.webtrixs.docconversion.service.DocConversionServiceImpl.convert(DocConversionServiceImpl.java:136)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:180)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:189)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:99)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:262)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:180)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:299)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:218)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:274)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.webtrixs.docconversion.pdf.WkHtml2PdfGenerator]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1151)
+	... 66 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at com.webtrixs.docconversion.pdf.WkHtml2PdfGenerator.getWkhtml2PdfFileBasedOnOS(WkHtml2PdfGenerator.java:49)
+	at com.webtrixs.docconversion.pdf.WkHtml2PdfGenerator.<init>(WkHtml2PdfGenerator.java:31)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 68 common frames omitted
+2018-04-29 00:05:17,487 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2387 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 00:05:17,491 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 00:05:17,492 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 00:05:19,647 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.352 seconds (JVM running for 2.917)
+2018-04-29 00:07:24,919 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2389 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 00:07:24,923 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 00:07:24,923 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 00:07:27,083 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.359 seconds (JVM running for 3.06)
+2018-04-29 00:24:10,165 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2532 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 00:24:10,169 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 00:24:10,169 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 00:24:12,361 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.399 seconds (JVM running for 3.06)
+2018-04-29 00:25:10,032 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2534 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 00:25:10,036 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 00:25:10,036 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 00:25:12,173 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.341 seconds (JVM running for 2.908)
+2018-04-29 00:26:25,126 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2536 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 00:26:25,131 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 00:26:25,131 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 00:26:27,282 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.348 seconds (JVM running for 2.919)
+2018-04-29 00:26:53,687 [http-nio-8080-exec-1] ERROR c.w.d.s.DocConversionServiceImpl - Error while generating pdf
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'wkHtml2PdfGenerationService' defined in file [/Users/raviramamoorthy/work/learning/docconversion/target/classes/com/webtrixs/docconversion/pdf/WkHtml2PdfGenerator.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.webtrixs.docconversion.pdf.WkHtml2PdfGenerator]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1159)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1103)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:513)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:331)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at com.webtrixs.docconversion.pdf.PDFGenerationService.generatePdf(PDFGenerationService.java:23)
+	at com.webtrixs.docconversion.service.DocConversionServiceImpl.doConversion(DocConversionServiceImpl.java:89)
+	at com.webtrixs.docconversion.service.DocConversionServiceImpl.convert(DocConversionServiceImpl.java:136)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.cxf.service.invoker.AbstractInvoker.performInvocation(AbstractInvoker.java:180)
+	at org.apache.cxf.service.invoker.AbstractInvoker.invoke(AbstractInvoker.java:96)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:189)
+	at org.apache.cxf.jaxrs.JAXRSInvoker.invoke(JAXRSInvoker.java:99)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor$1.run(ServiceInvokerInterceptor.java:59)
+	at org.apache.cxf.interceptor.ServiceInvokerInterceptor.handleMessage(ServiceInvokerInterceptor.java:96)
+	at org.apache.cxf.phase.PhaseInterceptorChain.doIntercept(PhaseInterceptorChain.java:308)
+	at org.apache.cxf.transport.ChainInitiationObserver.onMessage(ChainInitiationObserver.java:121)
+	at org.apache.cxf.transport.http.AbstractHTTPDestination.invoke(AbstractHTTPDestination.java:262)
+	at org.apache.cxf.transport.servlet.ServletController.invokeDestination(ServletController.java:234)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:208)
+	at org.apache.cxf.transport.servlet.ServletController.invoke(ServletController.java:160)
+	at org.apache.cxf.transport.servlet.CXFNonSpringServlet.invoke(CXFNonSpringServlet.java:180)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.handleRequest(AbstractHTTPServlet.java:299)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.doPost(AbstractHTTPServlet.java:218)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.apache.cxf.transport.servlet.AbstractHTTPServlet.service(AbstractHTTPServlet.java:274)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:109)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:198)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:496)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:790)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.webtrixs.docconversion.pdf.WkHtml2PdfGenerator]: Constructor threw exception; nested exception is java.lang.NullPointerException
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:154)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:89)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1151)
+	... 66 common frames omitted
+Caused by: java.lang.NullPointerException: null
+	at com.webtrixs.docconversion.pdf.WkHtml2PdfGenerator.getWkhtml2PdfFileBasedOnOS(WkHtml2PdfGenerator.java:49)
+	at com.webtrixs.docconversion.pdf.WkHtml2PdfGenerator.<init>(WkHtml2PdfGenerator.java:31)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:142)
+	... 68 common frames omitted
+2018-04-29 00:27:42,302 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2540 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 00:27:42,306 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 00:27:42,306 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 00:27:44,457 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.349 seconds (JVM running for 3.08)
+2018-04-29 00:29:44,988 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2543 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 00:29:44,992 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 00:29:44,992 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 00:29:47,101 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.304 seconds (JVM running for 3.161)
+2018-04-29 00:30:58,725 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 2547 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 00:30:58,728 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 00:30:58,729 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 00:31:00,891 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.362 seconds (JVM running for 2.931)
+2018-04-29 00:31:48,315 [http-nio-8080-exec-1] DEBUG c.w.d.pdf.WkHtml2PdfGenerator - Is wkhtmltopdf-mac executeable false 
+2018-04-29 00:31:53,552 [http-nio-8080-exec-1] DEBUG c.w.d.pdf.WkHtml2PdfGenerator - Is wkhtmltopdf-mac executeable after setting permission true
+2018-04-29 00:32:02,425 [http-nio-8080-exec-1] DEBUG c.w.d.pdf.WkHtml2PdfGenerator - File wkhtmltopdf-mac Absolute Path /Users/raviramamoorthy/work/learning/docconversion/target/classes/wkhtmltopdf-mac
+2018-04-29 00:32:10,604 [http-nio-8080-exec-1] INFO  c.w.d.pdf.WkHtml2PdfGenerator - Byte Array length 14796
+2018-04-29 10:09:40,125 [main] INFO  c.w.d.DocconversionApplicationTests - Starting DocconversionApplicationTests on Ravis-MacBook-Pro.local with PID 2737 (started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 10:09:40,135 [main] DEBUG c.w.d.DocconversionApplicationTests - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 10:09:40,136 [main] INFO  c.w.d.DocconversionApplicationTests - No active profile set, falling back to default profiles: default
+2018-04-29 10:11:02,275 [main] INFO  c.w.d.DocconversionApplicationTests - Starting DocconversionApplicationTests on Ravis-MacBook-Pro.local with PID 2739 (started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 10:11:02,281 [main] DEBUG c.w.d.DocconversionApplicationTests - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 10:11:02,282 [main] INFO  c.w.d.DocconversionApplicationTests - No active profile set, falling back to default profiles: default
+2018-04-29 10:11:04,311 [main] INFO  c.w.d.DocconversionApplicationTests - Started DocconversionApplicationTests in 2.259 seconds (JVM running for 3.145)
+2018-04-29 10:11:22,912 [main] INFO  c.w.d.DocconversionApplicationTests - Starting DocconversionApplicationTests on Ravis-MacBook-Pro.local with PID 2748 (started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 10:11:22,921 [main] DEBUG c.w.d.DocconversionApplicationTests - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 10:11:22,921 [main] INFO  c.w.d.DocconversionApplicationTests - No active profile set, falling back to default profiles: default
+2018-04-29 10:26:03,894 [main] INFO  c.w.d.DocconversionApplicationTests - Starting DocconversionApplicationTests on Ravis-MacBook-Pro.local with PID 2822 (started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 10:26:03,903 [main] DEBUG c.w.d.DocconversionApplicationTests - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 10:26:03,903 [main] INFO  c.w.d.DocconversionApplicationTests - No active profile set, falling back to default profiles: default
+2018-04-29 10:26:05,732 [main] INFO  c.w.d.DocconversionApplicationTests - Started DocconversionApplicationTests in 2.248 seconds (JVM running for 3.065)
+2018-04-29 19:27:33,429 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 3249 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 19:27:33,433 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 19:27:33,433 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 19:27:35,643 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.441 seconds (JVM running for 3.48)
+2018-04-29 20:03:41,298 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 9071 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 20:03:41,301 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 20:03:41,302 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 20:03:42,904 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.766 seconds (JVM running for 2.376)
+2018-04-29 20:06:13,448 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 9074 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 20:06:13,452 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 20:06:13,452 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 20:06:15,057 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.766 seconds (JVM running for 2.4)
+2018-04-29 20:06:23,955 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 9076 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 20:06:23,959 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 20:06:23,959 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 20:06:26,032 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 2.268 seconds (JVM running for 2.824)
+2018-04-29 20:06:41,624 [http-nio-8080-exec-1] DEBUG c.w.d.pdf.WkHtml2PdfGenerator - Is wkhtmltopdf-mac executeable false 
+2018-04-29 20:06:41,628 [http-nio-8080-exec-1] DEBUG c.w.d.pdf.WkHtml2PdfGenerator - Is wkhtmltopdf-mac executeable after setting permission true
+2018-04-29 20:06:41,628 [http-nio-8080-exec-1] DEBUG c.w.d.pdf.WkHtml2PdfGenerator - File wkhtmltopdf-mac Absolute Path /Users/raviramamoorthy/work/learning/docconversion/target/classes/wkhtmltopdf-mac
+2018-04-29 20:07:00,897 [http-nio-8080-exec-1] INFO  c.w.d.pdf.WkHtml2PdfGenerator - Byte Array length 14796
+2018-04-29 20:16:59,891 [main] INFO  c.w.d.DocconversionApplicationTests - Starting DocconversionApplicationTests on Ravis-MacBook-Pro.local with PID 9134 (started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 20:16:59,900 [main] DEBUG c.w.d.DocconversionApplicationTests - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 20:16:59,900 [main] INFO  c.w.d.DocconversionApplicationTests - No active profile set, falling back to default profiles: default
+2018-04-29 20:17:01,931 [main] INFO  c.w.d.DocconversionApplicationTests - Started DocconversionApplicationTests in 2.474 seconds (JVM running for 3.334)
+2018-04-29 21:03:38,732 [main] INFO  c.w.d.DocconversionApplicationTests - Starting DocconversionApplicationTests on Ravis-MacBook-Pro.local with PID 9247 (started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 21:03:38,743 [main] DEBUG c.w.d.DocconversionApplicationTests - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 21:03:38,743 [main] INFO  c.w.d.DocconversionApplicationTests - No active profile set, falling back to default profiles: default
+2018-04-29 21:03:40,622 [main] INFO  c.w.d.DocconversionApplicationTests - Started DocconversionApplicationTests in 2.254 seconds (JVM running for 3.084)
+2018-04-29 21:36:52,118 [main] INFO  c.w.d.DocconversionApplicationTests - Starting DocconversionApplicationTests on Ravis-MacBook-Pro.local with PID 9386 (started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 21:36:52,126 [main] DEBUG c.w.d.DocconversionApplicationTests - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 21:36:52,126 [main] INFO  c.w.d.DocconversionApplicationTests - No active profile set, falling back to default profiles: default
+2018-04-29 21:36:54,024 [main] INFO  c.w.d.DocconversionApplicationTests - Started DocconversionApplicationTests in 2.298 seconds (JVM running for 3.086)
+2018-04-29 23:31:23,986 [main] INFO  c.w.d.DocconversionApplicationTests - Starting DocconversionApplicationTests on Ravis-MacBook-Pro.local with PID 652 (started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 23:31:23,996 [main] DEBUG c.w.d.DocconversionApplicationTests - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 23:31:23,996 [main] INFO  c.w.d.DocconversionApplicationTests - No active profile set, falling back to default profiles: default
+2018-04-29 23:31:26,004 [main] INFO  c.w.d.DocconversionApplicationTests - Started DocconversionApplicationTests in 2.272 seconds (JVM running for 3.152)
+2018-04-29 23:37:44,256 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 677 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 23:37:44,260 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 23:37:44,260 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 23:37:46,012 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.938 seconds (JVM running for 2.865)
+2018-04-29 23:37:55,801 [http-nio-8080-exec-1] DEBUG c.w.d.pdf.WkHtml2PdfGenerator - Is wkhtmltopdf-mac executeable false 
+2018-04-29 23:37:55,802 [http-nio-8080-exec-1] DEBUG c.w.d.pdf.WkHtml2PdfGenerator - Is wkhtmltopdf-mac executeable after setting permission true
+2018-04-29 23:37:55,802 [http-nio-8080-exec-1] DEBUG c.w.d.pdf.WkHtml2PdfGenerator - File wkhtmltopdf-mac Absolute Path /Users/raviramamoorthy/work/learning/docconversion/target/classes/wkhtmltopdf-mac
+2018-04-29 23:37:57,943 [http-nio-8080-exec-1] INFO  c.w.d.pdf.WkHtml2PdfGenerator - Byte Array length 14796
+2018-04-29 23:43:25,968 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 708 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 23:43:25,973 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 23:43:25,973 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 23:43:27,494 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.676 seconds (JVM running for 2.302)
+2018-04-29 23:52:47,262 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 741 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 23:52:47,267 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 23:52:47,267 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 23:52:48,769 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.662 seconds (JVM running for 2.278)
+2018-04-29 23:55:48,283 [main] INFO  c.w.d.DocconversionApplication - Starting DocconversionApplication on Ravis-MacBook-Pro.local with PID 765 (/Users/raviramamoorthy/work/learning/docconversion/target/classes started by raviramamoorthy in /Users/raviramamoorthy/work/learning/docconversion)
+2018-04-29 23:55:48,288 [main] DEBUG c.w.d.DocconversionApplication - Running with Spring Boot v1.5.13.BUILD-SNAPSHOT, Spring v4.3.16.RELEASE
+2018-04-29 23:55:48,288 [main] INFO  c.w.d.DocconversionApplication - No active profile set, falling back to default profiles: default
+2018-04-29 23:55:49,764 [main] INFO  c.w.d.DocconversionApplication - Started DocconversionApplication in 1.638 seconds (JVM running for 2.247)
