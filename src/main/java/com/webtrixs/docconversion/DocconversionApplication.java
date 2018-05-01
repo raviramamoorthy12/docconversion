@@ -23,7 +23,7 @@ import org.springframework.context.annotation.Bean;
 import com.webtrixs.docconversion.service.DocConversionService;
 import ch.tocco.wkhtmltopdf.binary.WkHtmlToPdfBinary;
 
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = { "com.webtrixs.docconversion" })
 public class DocconversionApplication {
 	
 	@Autowired
@@ -41,7 +41,7 @@ public class DocconversionApplication {
 	
 	
 	
-
+/*
 	@Bean
 	public Server rsServer() {
 		JAXRSServerFactoryBean endPoint = new JAXRSServerFactoryBean();
@@ -57,7 +57,7 @@ public class DocconversionApplication {
 		return endPoint.create();
 		
 		
-	}
+	}*/
 	
 	
 	/*public OpenApiFeature createOpenApiFeature() {

@@ -13,9 +13,12 @@ import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
 import org.apache.cxf.jaxrs.ext.multipart.Attachment;
+import org.apache.cxf.rs.security.cors.CrossOriginResourceSharing;
 import org.springframework.stereotype.Service;
+import org.springframework.web.bind.annotation.CrossOrigin;
 
 import com.webtrixs.docconversion.model.Hmtl2PDF;
+
 
 @Path("/v1")
 @Service
@@ -26,12 +29,12 @@ public interface DocConversionService {
 	public boolean isHealthy() ;
 	
 	
-	/*
+	
 	@POST
 	@Path("/convert")
 	@Consumes(MediaType.MULTIPART_FORM_DATA)
 	public Response convert(List<Attachment> attachments, @Context HttpServletRequest request) throws Exception ;
-*/
+
 	
 	@POST
 	@Path("/converthtml")

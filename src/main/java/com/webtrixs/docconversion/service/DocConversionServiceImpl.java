@@ -18,13 +18,12 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.BeanFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 import com.webtrixs.docconversion.model.Hmtl2PDF;
 import com.webtrixs.docconversion.pdf.PDFGenerationService;
-import com.webtrixs.docconversion.pdf.WkHtml2PdfGenerator;
 
-@Component("docConversionService")
+@Service("docConversionService")
 public class DocConversionServiceImpl implements DocConversionService {
 	  @Autowired
       private BeanFactory beanFactory;
@@ -66,6 +65,9 @@ Logger logger = LoggerFactory.getLogger(DocConversionServiceImpl.class);
 	         }
 	      }
 
+		 
+		
+		 
 	      return res;
 	}
 
